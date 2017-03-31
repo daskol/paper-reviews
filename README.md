@@ -11,3 +11,4 @@ Here I stores all article I have ever read and reviews them.
 3. [Lv K. et al. *Learning Gradient Descent: Better Generalization and Longer Horizons* // arXiv:1703.03633v2](https://arxiv.org/abs/1703.03633)
 4. [Benetka J. R. et al. *Anticipating Information Needs Based on Check-in Activity* // WSDM. - 2017](http://zero-query.com/paper/benetka-wsdm2017-activity.pdf)
 5. [Novikov A. et al. *Tensorizing neural networks* // Advances in Neural Information Processing Systems. – 2015](http://papers.nips.cc/paper/5787-tensorizing-neural-networks.pdf)
+6. [Kirkpatrick J. et al. *Overcoming catastrophic forgetting in neural networks* // 2017](https://arxiv.org/abs/1612.00796)
