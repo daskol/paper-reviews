@@ -8,29 +8,29 @@ Here I stores all article I have ever read and reviews them.
 
 1. **A**
 
-    1. [Albers S. - Online Algorithms - 2006](reviews/Albers S. - Online Algorithms - 2006.md)
+    1. [Albers S. - Online Algorithms - 2006](reviews/Albers%20S.%20-%20Online%20Algorithms%20-%202006.md)
 
 2. **B**
 
-    1. [Bed-Devide S. et al - On the Power of Randomization in Online Algorithms - 1990](reviews/Bed-Devide S. et al - On the Power of Randomization in Online Algorithms - 1990.md)
-    2. [Benetka J. R. et al - Anticipating Information Needs Based on Check-in Activity - 2017](reviews/Benetka J. R. et al - Anticipating Information Needs Based on Check-in Activity - 2017.md)
-    3. [Biamonte J. et al. Quantum machine learning - 2017](reviews/Biamonte J. et al. Quantum machine learning - 2017.md)
+    1. [Bed-Devide S. et al - On the Power of Randomization in Online Algorithms - 1990](reviews/Bed-Devide%20S.%20et%20al%20-%20On%20the%20Power%20of%20Randomization%20in%20Online%20Algorithms%20-%201990.md)
+    2. [Benetka J. R. et al - Anticipating Information Needs Based on Check-in Activity - 2017](reviews/Benetka%20J.%20R.%20et%20al%20-%20Anticipating%20Information%20Needs%20Based%20on%20Check-in%20Activity%20-%202017.md)
+    3. [Biamonte J. et al. Quantum machine learning - 2017](reviews/Biamonte%20J.%20et%20al.%20Quantum%20machine%20learning%20-%202017.md)
 
 3. **G**
 
-    1. [Girshick R. et al - Rich feature hierarchies for accurate object detection and semantic segmentation - 2014](reviews/Girshick R. et al - Rich feature hierarchies for accurate object detection and semantic segmentation - 2014.md)
+    1. [Girshick R. et al - Rich feature hierarchies for accurate object detection and semantic segmentation - 2014](reviews/Girshick%20R.%20et%20al%20-%20Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation%20-%202014.md)
 
 4. **K**
 
-    1. [Kirkpatrick J. et al - Overcoming catastrophic forgetting in neural networks - 2017](reviews/Kirkpatrick J. et al - Overcoming catastrophic forgetting in neural networks - 2017.md)
+    1. [Kirkpatrick J. et al - Overcoming catastrophic forgetting in neural networks - 2017](reviews/Kirkpatrick%20J.%20et%20al%20-%20Overcoming%20catastrophic%20forgetting%20in%20neural%20networks%20-%202017.md)
 
 5. **L**
 
-    1. [Lv K. et al - Learning Gradient Descent: Better Generalization and Longer Horizons - 2017](reviews/Lv K. et al - Learning Gradient Descent: Better Generalization and Longer Horizons - 2017.md)
+    1. [Lv K. et al - Learning Gradient Descent: Better Generalization and Longer Horizons - 2017](reviews/Lv%20K.%20et%20al%20-%20Learning%20Gradient%20Descent:%20Better%20Generalization%20and%20Longer%20Horizons%20-%202017.md)
 
 6. **N**
 
-    1. [Novikov A. et al - Tensorizing neural networks - 2015](reviews/Novikov A. et al - Tensorizing neural networks - 2015.md)
+    1. [Novikov A. et al - Tensorizing neural networks - 2015](reviews/Novikov%20A.%20et%20al%20-%20Tensorizing%20neural%20networks%20-%202015.md)
 
 ## List
 
