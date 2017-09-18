@@ -19,6 +19,7 @@ Here I stores all article I have ever read and reviews them.
 3. **G**
 
     1. [Girshick R. et al - Rich feature hierarchies for accurate object detection and semantic segmentation - 2014](reviews/Girshick%20R.%20et%20al%20-%20Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation%20-%202014.md)
+    2. [Giovannetti V., Lloyd S., Maccone L. - Quantum random access memory - 2008](reviews/Giovannetti%20el%20al%20-%20Quantum%20random%20access%20memory%20-%202008.md)
 
 4. **K**
 
