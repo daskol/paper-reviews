@@ -24,6 +24,7 @@ Here I stores all article I have ever read and reviews them.
 4. **K**
 
     1. [Kirkpatrick J. et al - Overcoming catastrophic forgetting in neural networks - 2017](reviews/Kirkpatrick%20J.%20et%20al%20-%20Overcoming%20catastrophic%20forgetting%20in%20neural%20networks%20-%202017.md)
+    2. [Kingma D. et al - Glow: Generative flow with invertible 1x1 convolutions - 2018](reviews/Kingma%20D.%20et%20al%20-%20Glow:%20Generative%20flow%20with%20invertible%201x1%20convolutions%20-%202018.md)
 
 5. **L**
 
